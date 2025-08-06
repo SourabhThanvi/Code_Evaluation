@@ -10,6 +10,7 @@ Introduction
 -------
 > _Watch the video below to see how the platform works step by step._
 
+https://github.com/user-attachments/assets/412f208d-c74f-4bcf-bce9-08ec726ee54e
 
 
 Usage
