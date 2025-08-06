@@ -1,0 +1,82 @@
+# Python virtual environments and environment files
+venv/
+.env/
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Ignore specific files
+Agent/agent.py
+Difference_Analyzer/tracking.py
+Difference_Analyzer/try.py
+generated_code_20250805_155514.py
+
+# Ignore folders
+generated_files/
+Logger/
+
+# Ignore video and screen recordings
+*.mp4
+mp4 rec/
+*.avi
+*.mov
+
+# Ignore test outputs and temporary files
+*.tmp
+*.bak
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.xml
+
+# Ignore pip wheel files
+*.whl
+
+# Ignore mypy type check reports
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignore IDE project files
+.idea/
+*.iml
+
+# Ignore local database files
+*.sqlite3
+*.db
+
+# Ignore secrets and credentials
+secrets.*
+credentials.*
+# Ignore any other generated code files
+generated_code_*.py

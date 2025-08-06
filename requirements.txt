@@ -1,0 +1,12 @@
+click
+langchain
+python-dotenv
+pydantic
+langchain-core
+langchain-google-genai
+fastapi
+uvicorn
+streamlit
+typing-extensions
+langgraph
+# Note: langgraph requires Python 3.9+. If using Python 3.8, you may need to upgrade Python or use an alternative
